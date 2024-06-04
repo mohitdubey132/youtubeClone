@@ -1,8 +1,5 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+# You Tube Clone Using Fast api 
+![image](https://github.com/mohitdubey132/youtubeClone/assets/91591472/826cb16d-015d-4c12-bdaf-2279bbfd226a)
+![image](https://github.com/mohitdubey132/youtubeClone/assets/91591472/0167108e-bc4c-4a6a-adbd-d289220b5189) ![image](https://github.com/mohitdubey132/youtubeClone/assets/91591472/90acc254-63a1-4ef4-9905-ca5092c137dc)
 
-
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
-
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+![image](https://github.com/mohitdubey132/youtubeClone/assets/91591472/3ded493c-4d80-4784-afc8-7773bd024ff6)
